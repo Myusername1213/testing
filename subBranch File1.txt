@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-tdxfxgfgfgfgs
-=======
-tdxfxgfgfgfgs
->>>>>>> b0bed87e4c9456a8a5801ebf7ed07b6904a061e8
-=======
-new
->>>>>>> a1f1c5cbf1074438abadf1978d1bbf74e48210f8
+editt
